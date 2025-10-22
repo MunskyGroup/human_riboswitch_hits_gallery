@@ -27,4 +27,4 @@ A ensemble of 20 positive-unlabeled classifiers was trained on known riboswitch 
 1533 5'UTRs harboring potential riboswitch elements found by one or more classifier of the ensemble are also provided to the reader [here](./display_1533)
 
 
-[Read the manuscript here]()
+[Read the manuscript here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320282)
